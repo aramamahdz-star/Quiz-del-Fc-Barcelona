@@ -27,7 +27,7 @@ print()
 
 print("3️⃣ ¿Quién es el máximo goleador de la historia del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "lionel messi" or respuesta.lower() == "messi" or respuesta.lower() == "Messi" or respuesta.lower() == "Leo Messi":
+if respuesta.lower() == "lionel messi" or respuesta.lower() == "messi" or respuesta.lower() == "Messi" or respuesta.lower() == "Leo Messi" or respuesta.lower() == "Lionel Messi or respuesta.lower() "leo messi:
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
@@ -54,7 +54,7 @@ print()
 
 print("6️⃣ ¿Cuál es el estadio del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "camp nou" or respuesta.lower() == "Camp Nou":
+if respuesta.lower() == "camp nou" or respuesta.lower() == "Camp Nou" or respuesta.lower() == "Spotify Camp Nou:
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
@@ -113,3 +113,4 @@ else:
     print("💪 Sigue practicando, ¡vamos Barça!")
 
 print("¡Gracias por jugar! Espero que te hayas divertido")
+
