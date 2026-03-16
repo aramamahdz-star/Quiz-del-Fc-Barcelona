@@ -27,7 +27,7 @@ print()
 
 print("3️⃣ ¿Quién es el máximo goleador de la historia del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "lionel messi" or respuesta.lower() == "messi" or respuesta.lower() == "Messi" or respuesta.lower() == "Leo Messi" or respuesta.lower() == "Lionel Messi or respuesta.lower() "leo messi:
+if respuesta.lower() == "lionel messi" or respuesta.lower() == "messi" or respuesta.lower() == "Messi" or respuesta.lower() == "Leo Messi" or respuesta.lower() == "Lionel Messi" or respuesta.lower() == "Leo Messi" or respuesta.lower() == "Lionel messi":
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
@@ -36,25 +36,25 @@ print()
 
 print("4️⃣ ¿Cuántas veces ha ganado el FC Barcelona la Liga española?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta == "27":
+if respuesta == "28":
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
-    print("❌ Incorrecto. La respuesta correcta es '27'")
+    print("❌ Incorrecto. La respuesta correcta es '28'")
 print()
 
 print("5️⃣ ¿Quién es el entrenador actual del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "xavi" or respuesta.lower() == "xavi hernández" or respuesta.lower() == "Xavi Hernández" or respuesta.lower() == "Xavi":
+if respuesta.lower() == "Hansi Flick" or respuesta.lower() == "hansi flick":
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
-    print("❌ Incorrecto. La respuesta correcta es 'Xavi Hernández'")
+    print("❌ Incorrecto. La respuesta correcta es 'Hansi Flick'")
 print()
 
 print("6️⃣ ¿Cuál es el estadio del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "camp nou" or respuesta.lower() == "Camp Nou" or respuesta.lower() == "Spotify Camp Nou:
+if respuesta.lower() == "camp nou" or respuesta.lower() == "Camp Nou" or respuesta.lower() == "Spotify Camp Nou" or respuesta.lower() == "Camp nou":
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
@@ -64,7 +64,7 @@ print()
 # === NUEVAS PREGUNTAS (7-10) ===
 print("7️⃣ ¿Cómo se conoce popularmente al FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "barça" or respuesta.lower() == "barca" or respuesta.lower() == "culés" or respuesta.lower() == "cules" or respuesta.lower() == "Barça" or respuesta.lower() == "Culés":
+if respuesta.lower() == "barça" or respuesta.lower() == "barca" or respuesta.lower() == "culés" or respuesta.lower() == "cules" or respuesta.lower() == "Barça" or respuesta.lower() == "Culés" or respuesta.lower() == "Cules" or respuesta.lower() == "Azulgranas" or respuesta.lower() == "azulgranas":
     print("✅ ¡Correcto!")
     puntuacion += 1
 else:
@@ -73,7 +73,7 @@ print()
 
 print("8️⃣ ¿Qué jugador tiene más partidos en la historia del FC Barcelona?")
 respuesta = input("Escribe tu respuesta: ")
-if respuesta.lower() == "xavi" or respuesta.lower() == "xavi hernández" or respuesta.lower() == "xavi hernandez" or respuesta.lower() == "lionel messi" or respuesta.lower() == "messi" or respuesta.lower() == "Leo Messi " or respuesta.lower() == "Xavi " or respuesta.lower() == "Xavi Hernández " or respuesta.lower() == "Xavi Hernandez ":
+if respuesta.lower() == "xavi" or respuesta.lower() == "xavi hernández" or respuesta.lower() == "xavi hernandez" or respuesta.lower() == "lionel messi" or respuesta.lower() == "Lionel Messi" or respuesta.lower() == "messi" or respuesta.lower() == "Leo Messi " or respuesta.lower() == "lionel messi" or respuesta.lower() == "Xavi " or respuesta.lower() == "Xavi Hernández " or respuesta.lower() == "Xavi Hernandez " or respuesta.lower() == "Lionel messi":
     print("✅ ¡Correcto! Xavi y Messi comparten el récord")
     puntuacion += 1
 else:
@@ -113,4 +113,3 @@ else:
     print("💪 Sigue practicando, ¡vamos Barça!")
 
 print("¡Gracias por jugar! Espero que te hayas divertido")
-
